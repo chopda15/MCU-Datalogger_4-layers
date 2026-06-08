@@ -1,0 +1,17 @@
+{
+  "jobs": [],
+  "meta": {
+    "version": 1
+  },
+  "outputs": [
+    {
+      "description": "",
+      "id": "ed165996-a5be-466b-b8bb-8b4858d6a4ef",
+      "only": [],
+      "settings": {
+        "output_path": "blog"
+      },
+      "type": "folder"
+    }
+  ]
+}
